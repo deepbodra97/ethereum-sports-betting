@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-sport-betting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "npm run test",
+    "dev": "lite-server",
+    "test": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
