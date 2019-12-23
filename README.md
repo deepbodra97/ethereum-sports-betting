@@ -2,6 +2,8 @@
 # Fortunether
 A decentralized application for sports betting on the ethereum blockchain. This project implements **[moneyline betting](https://news.sportsinteraction.com/guide/moneyline-betting-explained)**. Make sure you know what it actually is to better appreciate the project.
 
+The demo can be found [here](https://fortunether.herokuapp.com/). Read the guidelines for the demo to work as expected
+
 ## Features
 
  1. Add Bet
