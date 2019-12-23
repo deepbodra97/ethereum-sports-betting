@@ -4,6 +4,8 @@ A decentralized application for sports betting on the ethereum blockchain. This 
 
 The demo can be found [here](https://fortunether.herokuapp.com/). Read the guidelines for the demo to work as expected
 
+![alt screenshot](https://github.com/deepbodra97/ethereum-sports-betting/blob/master/images/home.png)
+
 ## Features
 
  1. Add Bet
