@@ -53,3 +53,7 @@ A few humble requests:
 	``truffle migrate --reset``
 2. Running the Decentralised App(Server)
 	``npm run dev``
+
+## Credits
+
+Shoutout to [goodvibration](https://ethereum.stackexchange.com/users/16043/goodvibration) and [Rob Hitchens](https://ethereum.stackexchange.com/users/5549/rob-hitchens-b9lab) for answering my questions on Stack Exchange
