@@ -29,7 +29,11 @@ The demo can be found [here](https://fortunether.herokuapp.com/). Read the guide
 	 2. Using this, the admin can get the ether transferred to his address.
 
 ## Guidelines to test the demo
-
+1. Import this private key `ed6d7422eb57924e8b6d071ae87f226638f28cee56447a16f5cdfc39325b687b` into your metamask account. Using this key you can test the admin only features. 
+A few humble requests: 
+	1. Don't steal the fake ethers in the account
+	2. Use only 1 ether while testing because there aren't many
+2. Whitelist the url of the website in metamask (as shown in the dependencies)
 
 ## Dependencies
 
