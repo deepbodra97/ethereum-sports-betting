@@ -2,7 +2,10 @@
 # FortunEther
 A decentralized application for sports betting on the ethereum blockchain. This project implements **[moneyline betting](https://news.sportsinteraction.com/guide/moneyline-betting-explained)**. Make sure you know what it actually is to better appreciate the project.
 
-The demo can be found [here](https://fortunether.herokuapp.com/). Read the guidelines for the demo to work as expected
+# Demo
+[![Demo](https://github.com/deepbodra97/ethereum-sports-betting/blob/master/images/thumbnail.PNG)](https://www.youtube.com/watch?v=nz0a59W_D6Y)
+
+The live demo can be found [here](https://fortunether.herokuapp.com/). Read the guidelines for the demo to work as expected
 
 ![alt screenshot](https://github.com/deepbodra97/ethereum-sports-betting/blob/master/images/home.png)
 
